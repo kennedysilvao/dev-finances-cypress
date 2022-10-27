@@ -1,0 +1,11 @@
+{
+  "name": "devfinance",
+  "version": "1.0.0",
+  "description": "Testes automatizados dev finance",
+  "main": "index.js",
+  "author": "Kennedy Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
